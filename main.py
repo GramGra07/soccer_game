@@ -5,15 +5,15 @@ from time import sleep
 import sys
 
 import math
-from Python.pyGame.soccer.classes.player import Player
-from Python.pyGame.soccer.classes.ball import Ball
-from Python.pyGame.soccer.util.Sizes import Sizes
-from Python.pyGame.soccer.util.functions import *
-from Python.pyGame.soccer.util.logger import log
-from Python.pyGame.soccer.util.playerPositions import *
-from Python.pyGame.soccer.trackers.scores import *
-from Python.pyGame.soccer.trackers.trackers import *
-from Python.pyGame.soccer.util.util import placeByPointAngle, toRadians
+from classes.player import Player
+from classes.ball import Ball
+from util.Sizes import Sizes
+from util.functions import *
+from util.logger import log
+from util.playerPositions import *
+from trackers.scores import *
+from trackers.trackers import *
+from util.util import placeByPointAngle, toRadians
 
 
 def main():

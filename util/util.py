@@ -23,6 +23,8 @@ def getPointFromAngleDistance(x, y, angle, distance):
 
 def toDegrees(angle):
     return math.degrees(angle)
+
+
 def toRadians(angle):
     return math.radians(angle)
 

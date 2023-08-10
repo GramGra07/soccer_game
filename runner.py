@@ -1,3 +1,3 @@
-from Python.pyGame.soccer.gameModes import buildGameModes
+from gameModes import buildGameModes
 
 buildGameModes()

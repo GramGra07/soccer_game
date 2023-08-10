@@ -1,4 +1,4 @@
-from Python.pyGame.soccer.trackers.trackers import Tracker
+from trackers.trackers import Tracker
 
 
 def log(text):

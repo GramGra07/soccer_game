@@ -2,8 +2,8 @@ from time import sleep
 
 import pygame
 
-from Python.pyGame.soccer.main import main
-from Python.pyGame.soccer.trackers.trackers import Tracker
+from main import main
+from trackers.trackers import Tracker
 
 
 class Button:

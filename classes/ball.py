@@ -1,7 +1,7 @@
 
-from Python.pyGame.soccer.trackers.trackers import Tracker
-from Python.pyGame.soccer.util.functions import collision
-from Python.pyGame.soccer.util.util import placeByPointAngle
+from trackers.trackers import Tracker
+from util.functions import collision
+from util.util import placeByPointAngle
 
 
 class Ball:

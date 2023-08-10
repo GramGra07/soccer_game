@@ -1,8 +1,8 @@
 import pygame
 
-from Python.pyGame.soccer.trackers.scores import Scores
-from Python.pyGame.soccer.trackers.trackers import Tracker
-from Python.pyGame.soccer.util.util import getDistance
+from trackers.scores import Scores
+from trackers.trackers import Tracker
+from util.util import getDistance
 
 screenwidth = 1000
 screenheight = 667

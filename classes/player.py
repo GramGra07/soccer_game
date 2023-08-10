@@ -1,7 +1,7 @@
 import pygame
 
-from Python.pyGame.soccer.util.Sizes import Sizes
-from Python.pyGame.soccer.trackers.trackers import Tracker
+from util.Sizes import Sizes
+from trackers.trackers import Tracker
 
 screenwidth, screenheight = (1000, 667)
 
